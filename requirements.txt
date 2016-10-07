@@ -1,0 +1,7 @@
+django>=1.9,<1.10
+django-grappelli>=2.8,<2.9
+django-filebrowser>=3.7,<3.8
+django-markdown
+pytz
+whoosh>=2.7.4
+bleach
